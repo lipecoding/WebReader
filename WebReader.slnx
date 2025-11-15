@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Project Path="WebReader.API/WebReader.API.csproj" />
+  <Project Path="WebReader.AppHost/WebReader.AppHost.csproj" />
+  <Project Path="WebReader.Application/WebReader.Application.csproj" />
+  <Project Path="WebReader.Domain/WebReader.Domain.csproj" />
+  <Project Path="WebReader.Infrastructure/WebReader.Infrastructure.csproj" />
+  <Project Path="WebReader.ServiceDefaults/WebReader.ServiceDefaults.csproj" />
+  <Project Path="WebReader.Web/WebReader.Web.csproj" />
+</Solution>
