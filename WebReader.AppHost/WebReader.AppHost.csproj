@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\WebReader.API\WebReader.API.csproj" />
+    <ProjectReference Include="..\WebReader.Web\WebReader.Web\WebReader.Web\WebReader.Web.csproj" />
   </ItemGroup>
 
 </Project>
